@@ -1,0 +1,4 @@
+com\app\bean\ZipRange.class
+com\app\comparator\ZipRangeComparator.class
+com\app\controller\MinZipRangeGenerator.class
+com\app\AppRunner.class
